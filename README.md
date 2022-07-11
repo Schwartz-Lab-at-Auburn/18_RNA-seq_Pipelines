@@ -1,4 +1,4 @@
-# 25_RNA-seq_Pipelines *UPDATE TITLE*
+# 18_RNA-seq_Pipelines *UPDATE TITLE*
 
 ## Background
 
